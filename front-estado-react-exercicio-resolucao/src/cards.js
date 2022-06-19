@@ -78,6 +78,8 @@ const cards = [
     image: Heroku,
     turned: false
   },
+  
 ]
+
 
 export default cards;

@@ -59,6 +59,7 @@ function Card({ card, stateCards, setStateCards }) {
       onClick={() => handleTurnCard()}
     />
   )
+  
 }
 
 export default Card;
